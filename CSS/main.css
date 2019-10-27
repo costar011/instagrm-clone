@@ -1,9 +1,10 @@
-.main .main__col-1 {
+.main .main__col-1 .main__col-1-IMG{
     width: 95%;
     height: 350px;
     text-align: center;
     margin-left: 12px;
 }
+
 
 .main .main__col-2 {
     display: flex;
