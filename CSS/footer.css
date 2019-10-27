@@ -1,0 +1,9 @@
+.footer {
+    margin-top: 30px;
+    width: 100%;
+    font-size: 35px;
+    display: flex;
+    cursor: pointer;
+    justify-content: space-around;
+    align-items: baseline;
+}
